@@ -361,7 +361,7 @@ Check out these related projects.
 > - **Customer Workshops.** Engage with our team in weekly workshops, gaining insights and strategies to continuously improve and innovate.
 >
 > <a href="https://cpco.io/commercial-support?utm_source=github&utm_medium=readme&utm_campaign=cloudposse/terraform-aws-elasticache-redis&utm_content=commercial_support"><img alt="Request Quote" src="https://img.shields.io/badge/request%20quote-success.svg?style=for-the-badge"/></a>
->
+> 
 </details>
 
 ## ✨ Contributing
@@ -404,15 +404,15 @@ Setup dependencies:
 
 To run tests:
 
-- Run all tests:
+- Run all tests:  
   ```sh
   atmos test run
   ```
-- Clean up test artifacts:
+- Clean up test artifacts:  
   ```sh
   atmos test clean
   ```
-- Explore additional test options:
+- Explore additional test options:  
   ```sh
   atmos test --help
   ```
@@ -470,7 +470,7 @@ All other trademarks referenced herein are the property of their respective owne
 
 
 ---
-Copyright © 2017-2025 [Cloud Posse, LLC](https://cpco.io/copyright)
+Copyright © 2017-2026 [Cloud Posse, LLC](https://cpco.io/copyright)
 
 
 <a href="https://cloudposse.com/readme/footer/link?utm_source=github&utm_medium=readme&utm_campaign=cloudposse/terraform-aws-elasticache-redis&utm_content=readme_footer_link"><img alt="README footer" src="https://cloudposse.com/readme/footer/img"/></a>
